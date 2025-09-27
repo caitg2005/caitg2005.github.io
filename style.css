@@ -74,8 +74,8 @@ a:hover {
   text-decoration: underline;
 }
 .profile-pic {
-  width: 150px;   /* smaller size */
-  height: 150px;  /* keep it equal for circle */
+  width: 150px;  
+  height: 150px;  
   border-radius: 50%;
   object-fit: cover;
   margin: 1rem auto;
